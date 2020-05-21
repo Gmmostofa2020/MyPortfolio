@@ -1,0 +1,177 @@
+body{
+    margin:10px;
+    padding: 10px;
+    background-color:whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 2px solid rgb(221, 131, 221);
+}
+div{
+    margin: 0px;
+    padding: 0px;
+}
+body h1{
+     text-align: center;
+     margin: 0 auto;
+     height: 45px;
+     width: auto;
+     padding: 10px;margin-top: 20px;
+}
+body h4{
+    text-align: center;
+    padding-top: 10px;
+   padding-bottom: 10px;
+   margin-top: 10px;
+   margin-bottom: 20px;
+   border-bottom: 1px solid black;
+}
+.header{
+ background-color:whitesmoke;
+ overflow: hidden;
+ height: 60px; border-bottom: 1px solid black;
+}
+header ul li a img{
+   float:left ;
+}
+.logo{
+    float: left;
+    margin: 15px 40px;
+}
+.header a {
+    float: left;
+    display: block;
+    text-decoration: none;
+    width: 130px;
+    height: 50px;
+    margin-right: 20px;
+    list-style: none;
+    font-size: 20px;
+}
+.header a:hover{
+ color: rgb(0, 255, 13);
+} 
+.header li {
+ float: right;
+ list-style:none;
+}
+.banner{
+ height: 500px;
+ width: auto;
+ border-bottom: 1px solid black;
+
+}
+.banner img{
+height: 400px;
+width: 1100px;
+margin: 20px 20px;
+padding: 10px 20px;
+}
+.maincontent {
+height: 400px;
+width: auto;
+margin: 5px;
+padding: 5px;
+border-bottom: 1px solid black;
+}
+.leftsection{
+float: left;
+width: 33%;
+}
+.leftsection img{
+ margin: 20px 40px;
+ border-radius: 80%;
+}
+.rightsection{
+float: right;
+width: 66%;
+
+}
+.rightsection p{
+margin: 14px;
+padding: 15px;
+font-size: 20px;
+}
+section{
+width: 1200px;
+height: 460px;
+margin-left: 5px;
+padding-left: 8px;
+padding-bottom: 6px;
+border-bottom: 1px solid black;
+}
+section h3{
+    text-align: center;
+    margin: 0px 10px;
+    padding: 5px;
+    text-transform: none;
+    color: rgb(22, 26, 3);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-bottom: 1x solid purple;
+}
+section h3:hover{
+    color: lawngreen;
+}
+section h2{
+    margin-top: 10px;
+    text-align: center;
+    text-transform: none;
+    color: rgb(221, 19, 248);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+section p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: none;
+    margin: 5px;
+    padding: 5px;
+    
+}
+.html{
+    float: left;
+    width: 19%;
+}
+.css{
+ 
+ float: left;
+ width: 19%;
+ 
+}
+.php{
+    
+    float: left;
+    width: 19%; 
+}
+.net{
+  
+    width: 19%;
+    float: left;
+
+}
+.design{
+    width: 19%;
+    float: left;
+}
+.footer{
+ height: 60px;
+ width: auto;
+}
+.footerleft{
+  float: left;
+  width: 48%;
+}
+.footerright{
+    float: right;
+    width: 48%;
+}
+.footerleft h5{
+    margin: 5px 10px;
+    margin-top: 20px;
+    padding-top: 5px;
+}
+
+.footerright ul li{
+    text-align: left;
+    display: inline-flex;
+    text-decoration: none;
+    padding-left: 10px;
+    padding-top: 10px;
+}
